@@ -8,5 +8,6 @@ Git tracks changes of files.
 Creating a new branch is quick.
 I lover Git!!!
 Creating a new branch is quick AND simple.
+git news
 简写命令测试
 Switched to a new branch 'dev'
